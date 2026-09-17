@@ -99,3 +99,9 @@ Student-Database-Management-System/
 │
 ├── student_database.py
 └── README.md
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the `LICENSE` file for more information.
